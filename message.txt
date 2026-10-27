@@ -1,0 +1,21 @@
+Objet: Candidature alternance Infrastructure / Réseau – Noah Felten
+---
+Madame, Monsieur,
+
+Étudiant en Bachelor Cybersécurité à l'ESGI, je recherche une alternance en infrastructure et réseau, et je me permets de vous adresser ma candidature pour rejoindre {entreprise}.
+
+Je suis disponible immédiatement, pour une durée d'un an (jusqu'à la fin de mon Bachelor), avec la possibilité de la prolonger de deux ans dans le cadre d'un Master. Le rythme est de trois semaines en entreprise pour une semaine en cours.
+
+Côté infrastructure, j'administre mes propres environnements : un cluster de virtualisation sous Proxmox, des serveurs Linux et Windows Server avec Active Directory, un serveur mail complet avec nom de domaine, des accès distants sécurisés par VPN et reverse proxy, ainsi qu'une stack de supervision (Prometheus, Graylog, Suricata) conteneurisée sous Docker. J'ai également effectué une alternance chez Avidsen, où j'ai automatisé la validation de produits IoT avec Python et des pipelines GitLab CI/CD.
+
+Je prépare actuellement la certification CCNA avec mon école, ainsi que la CompTIA Security+ en autonomie, pour renforcer mes bases réseau et sécurité.
+
+Vous trouverez mon CV en pièce jointe. Je serais ravi d'échanger avec vous sur vos besoins et sur la façon dont je pourrais y contribuer.
+
+Dans l'attente de votre retour, je vous souhaite une excellente journée.
+
+Cordialement,
+
+Noah Felten
+06 38 94 86 89 | noahfelten@icloud.com
+github.com/scxrrow
